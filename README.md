@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 👨‍🔬 I’m working on knowledge tracing.
+- 👨‍🔬 I’m a graduate student at Nanjing Normal University.
