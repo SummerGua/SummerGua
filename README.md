@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-- 👨‍🔬 I’m a graduate student at Nanjing Normal University.
+I am
+- a graduate student at Nanjing Normal University.
+- a web front-end development intern at [RED (xiaohongshu)](https://www.xiaohongshu.com)
